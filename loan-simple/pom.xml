@@ -5,7 +5,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.redhat.demos.dm</groupId>
-	<artifactId>loan-application</artifactId>
+	<artifactId>loan-simple</artifactId>
 	<version>1.0.0</version>
 	<name>loan-simple</name>
 	<description>Loan Application Demo</description>
