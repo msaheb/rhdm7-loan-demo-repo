@@ -9,7 +9,7 @@ To test the rule execution on the kieserver:
 
 1. Open Swagger : `http://localhost:8080/kie-server/docs`
 2. Select **Rule Evaluation :: BRM**
-3. Insert for container **id**: `loan-application_1.1.0`
+3. Insert for container **id**: `loan-simple_1.0.0`
 4. And use the following payload for **body**:
 
 ```
