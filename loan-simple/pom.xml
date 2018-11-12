@@ -11,7 +11,7 @@
 	<description>Loan Application Demo</description>
 	<!-- 
 	<properties>
-		<version>7.0.0.GA-redhat-2</version>
+		<version>7.7.0.Final-redhat-7</version>
 	</properties>
 	<dependencies>
 		<dependency>
